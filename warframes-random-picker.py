@@ -10,5 +10,5 @@ while True:
     except ValueError:
         print("Please enter a valid number!")
 
-quota = random.randint(0, x)
+quota = random.randint(1, x)
 print(f"Python chose #{quota}")

@@ -1,0 +1,1 @@
+These are Warfarme inspired python code "Modules". They work on data formatting an dsimplification of gameplay. 
