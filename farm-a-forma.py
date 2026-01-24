@@ -5,7 +5,7 @@ import random
 while True:
     try:
         f = int(input("Guess a number between 20 and 0:"))
-        if f <= 0:
+        if f <= 0 or f >= 7:
             print("Try a valid number")
             continue
         break
